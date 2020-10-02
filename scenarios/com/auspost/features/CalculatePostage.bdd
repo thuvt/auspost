@@ -1,0 +1,7 @@
+
+SCENARIO: Screnario 1 - Australia Post Calculate Postage
+META-DATA: {"description":"Desc - Calculate Postage", "dataFile":"resources/testdata/data.xls", "sheetName":"POSTAGE", "key":"data"}
+	Given Launch the Calculate postage & delivery times page
+	When Enter source, destination postcodes and hit Go button '${args[0]}'
+	Then Validate cost and post types '${args[0]}'
+End 

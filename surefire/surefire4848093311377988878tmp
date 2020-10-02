@@ -1,0 +1,13 @@
+#surefire
+#Mon May 04 23:51:28 AEST 2020
+log4j.configuration=file\:///D\:\\Workspace\\Confluence/resources/log4j.properties
+json.report.root.dir=test-results
+org.uncommons.reportng.xml-dialect=testng
+org.uncommons.reportng.escape-output=false
+json.report.dir=test-results/json
+localRepository=C\:\\Users\\thuvu\\.m2\\repository
+selenium.screenshots.relative.path=img
+outputDir=test-results
+user.dir=D\:\\Workspace\\Confluence
+basedir=D\:\\Workspace\\Confluence
+selenium.screenshots.dir=test-results/img

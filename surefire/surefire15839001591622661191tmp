@@ -1,0 +1,13 @@
+#surefire
+#Fri Jul 31 16:48:33 AEST 2020
+log4j.configuration=file\:///D\:\\Workspace\\Borland/resources/log4j.properties
+json.report.root.dir=test-results
+org.uncommons.reportng.xml-dialect=testng
+org.uncommons.reportng.escape-output=false
+json.report.dir=test-results/json
+localRepository=C\:\\Users\\thuvu\\.m2\\repository
+selenium.screenshots.relative.path=img
+outputDir=test-results
+user.dir=D\:\\Workspace\\Borland
+basedir=D\:\\Workspace\\Borland
+selenium.screenshots.dir=test-results/img

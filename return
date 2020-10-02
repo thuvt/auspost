@@ -1,0 +1,96 @@
+[33mcommit d0abadfeb21e74be7e31973531271ff91d689cf4[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Thu Vu <thuvu.se@gmail.com>
+Date:   Tue Jan 14 10:49:48 2020 +1100
+
+    separated the EditProfileChangeUsernamePassword
+
+[33mcommit 14a172f57ca3d74640d70479141401cfcb061aeb[m
+Merge: 93a7abe 7bbcd72
+Author: Thu Vu <thuvu.se@gmail.com>
+Date:   Fri Jan 10 16:38:03 2020 +1100
+
+    fix the open xls file
+
+[33mcommit 93a7abe45b92cee3269578de97ba4bfc71ed3673[m
+Author: Thu Vu <thuvu.se@gmail.com>
+Date:   Fri Jan 10 16:27:01 2020 +1100
+
+    add global.testdata
+
+[33mcommit 7bbcd723cf29093e966cf1c4a35368c1e4e8e8c0[m
+Author: Thu Vu <thuvu.se@gmail.com>
+Date:   Fri Jan 10 09:45:51 2020 +1100
+
+    sync with bitbucket
+
+[33mcommit a65ae473d06402f299e7d68d775d9cd547da2987[m
+Author: Thu Vu <thuvu.se@gmail.com>
+Date:   Thu Jan 9 16:23:35 2020 +1100
+
+    Implement Edit Profile
+
+[33mcommit cf67e5182a7e6d490bda42d602a8f9fcf9f41b5c[m
+Author: Thu Vu <thuvu.se@gmail.com>
+Date:   Wed Jan 8 09:49:40 2020 +1100
+
+    Using Username and password from prop file
+
+[33mcommit e46430072208c97f24a0f1ebb9803d31c2ee3568[m
+Author: Thu Vu <thuvu.se@gmail.com>
+Date:   Tue Jan 7 14:31:27 2020 +1100
+
+    Fix the git issue in eclipse
+
+[33mcommit 3bf8bdc01a31766f89eee0cd2fe6990031ed1453[m
+Author: Thu Vu <thuvu.se@gmail.com>
+Date:   Mon Jan 6 16:44:03 2020 +1100
+
+    First implementing Edit Profile
+
+[33mcommit ee2e036fa805afa12073d53b5d8b41af1d11958c[m
+Author: Thu Vu <thuvu.se@gmail.com>
+Date:   Thu Jan 2 09:43:12 2020 +1100
+
+    Relocate project structure
+
+[33mcommit 86ec1645b80bf4d8490063f6842706434668bf3a[m
+Author: Thu Vu <thuvu.se@gmail.com>
+Date:   Wed Dec 18 11:36:54 2019 +1100
+
+    Del the folder from qmetry
+
+[33mcommit 740fe77fdf469300fdbd6c3c998031f799189a19[m
+Author: Thu Vu <thuvu.se@gmail.com>
+Date:   Wed Dec 18 11:33:44 2019 +1100
+
+    Fix the git issue
+
+[33mcommit 30544de8141ad0aa700626e22d4ea383aadaacee[m
+Author: Thu Vu <thuvu.se@gmail.com>
+Date:   Wed Dec 18 10:49:48 2019 +1100
+
+    orgnize project structure and rename it
+
+[33mcommit da86c7ba5139bf2e6736d4a942bbfba615c13d16[m
+Author: Chien Nguyen <chien.nguyen@jobseeker.com.au>
+Date:   Wed Dec 18 00:16:28 2019 +1100
+
+    Fixed data driven
+
+[33mcommit f3bf9ca0732a9fc0d82707a9d946983394c4f508[m
+Author: Thu Vu <thuvu.se@gmail.com>
+Date:   Tue Dec 17 16:53:26 2019 +1100
+
+    final check
+
+[33mcommit 671d0243d52a5a0b75af6782f794a7927a487854[m
+Author: Thu Vu <thuvu.se@gmail.com>
+Date:   Tue Dec 17 16:51:59 2019 +1100
+
+    create login.bdd
+
+[33mcommit 12a1384e573b7de239678cc29d19070b254ffc38[m
+Author: Thu Vu <thuvu.se@gmail.com>
+Date:   Mon Dec 16 23:15:19 2019 +1100
+
+    First commit
