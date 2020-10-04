@@ -1,7 +1,9 @@
 # Prerequisite
 The system requirements information are below:
+- BDD
 - Java 8+
 - Maven (prefer latest version)
+- Selenium
 - Eclipse (prefer latest version)
 
 # Instructions
