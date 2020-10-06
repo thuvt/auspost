@@ -22,6 +22,8 @@ Maven directory structure:
 To change/modify dependencies, check pom.xml
 
 To run the project, from command prompt go to project home and run mvn. Open test-results/emailable-report.html to view results.
+# Assumption
+- Restricted to domestic postage only
 
 # Note 
 This project uses Chrome driver and it requires Chrome driver binary. You need to download and set webdriver.chrome.driver property in application.properties file with driver binary path.
